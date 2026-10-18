@@ -1,0 +1,42 @@
+{
+  "name": "happyhorse",
+  "version": "0.1.0",
+  "description": "Use HappyHorse for text, image and reference video generation and editing through Ace Data Cloud. Install this independent Codex plugin, use your own API key, and retrieve the same task until it finishes.",
+  "author": {
+    "name": "Ace Data Cloud",
+    "email": "dev@acedata.cloud",
+    "url": "https://github.com/AceDataCloud"
+  },
+  "homepage": "https://github.com/AceDataCloud/HappyHorseCodex#readme",
+  "repository": "https://github.com/AceDataCloud/HappyHorseCodex",
+  "license": "MIT",
+  "keywords": [
+    "happyhorse",
+    "happyhorse",
+    "video",
+    "acedatacloud",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "HappyHorse by Ace Data Cloud",
+    "shortDescription": "HappyHorse tools with your Ace API key",
+    "longDescription": "Use HappyHorse for text, image and reference video generation and editing through Ace Data Cloud. Install this independent Codex plugin, use your own API key, and retrieve the same task until it finishes. This integration is provided by Ace Data Cloud and is not an official plugin from the service brand. Media API calls may incur charges.",
+    "developerName": "Ace Data Cloud",
+    "category": "Creativity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://platform.acedata.cloud/models?utm_source=opensource&utm_medium=referral&utm_campaign=evergreen&utm_content=happyhorsecodex_readme_website",
+    "defaultPrompt": [
+      "Show HappyHorse model information without generating.",
+      "Use HappyHorse to create a result after I confirm the cost.",
+      "Check my existing HappyHorse task ID without regenerating."
+    ],
+    "composerIcon": "./assets/icon.jpg",
+    "logo": "./assets/icon.jpg",
+    "screenshots": []
+  }
+}

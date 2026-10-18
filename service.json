@@ -1,0 +1,23 @@
+{
+  "service": "HappyHorse",
+  "repo": "HappyHorseCodex",
+  "slug": "happyhorse",
+  "mcp": "happyhorse",
+  "purpose": "text, image and reference video generation and editing",
+  "zh": "视频生成、参考素材生成与视频编辑",
+  "query": "happyhorse_get_task",
+  "info": "happyhorse_list_models",
+  "tools": [
+    "happyhorse_list_models",
+    "happyhorse_generate_video",
+    "happyhorse_generate_video_from_image",
+    "happyhorse_generate_video_from_references",
+    "happyhorse_edit_video",
+    "happyhorse_get_task",
+    "happyhorse_get_tasks_batch"
+  ],
+  "api": "/happyhorse/videos",
+  "task_api": "/happyhorse/tasks",
+  "icon_repo": "HappyHorseCursor",
+  "icon": "assets/logo.jpg"
+}
