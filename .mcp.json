@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "happyhorse": {
+      "url": "https://happyhorse.mcp.acedata.cloud/mcp",
+      "bearer_token_env_var": "ACEDATACLOUD_API_TOKEN",
+      "enabled_tools": [
+        "happyhorse_list_models",
+        "happyhorse_generate_video",
+        "happyhorse_generate_video_from_image",
+        "happyhorse_generate_video_from_references",
+        "happyhorse_edit_video",
+        "happyhorse_get_task",
+        "happyhorse_get_tasks_batch"
+      ]
+    }
+  }
+}
