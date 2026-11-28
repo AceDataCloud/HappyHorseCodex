@@ -1,7 +1,7 @@
 {
   "name": "acedatacloud-happyhorse",
   "interface": {
-    "displayName": "HappyHorse by Ace Data Cloud"
+    "displayName": "HappyHorse"
   },
   "plugins": [
     {
