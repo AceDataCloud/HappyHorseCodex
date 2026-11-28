@@ -3,7 +3,7 @@ name: happyhorse
 description: Use HappyHorse through Ace Data Cloud for text, image and reference video generation and editing, or retrieve an existing HappyHorse task. This is an independent service plugin, not a general chat model provider.
 ---
 
-# HappyHorse by Ace Data Cloud
+# HappyHorse
 
 Use the plugin's `happyhorse` MCP tools. Do not fall back to another provider/model or silently submit a second request.
 

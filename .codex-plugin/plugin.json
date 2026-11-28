@@ -1,6 +1,6 @@
 {
   "name": "happyhorse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use HappyHorse for text, image and reference video generation and editing through Ace Data Cloud. Install this independent Codex plugin, use your own API key, and retrieve the same task until it finishes.",
   "author": {
     "name": "Ace Data Cloud",
@@ -20,7 +20,7 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "HappyHorse by Ace Data Cloud",
+    "displayName": "HappyHorse",
     "shortDescription": "HappyHorse tools with your Ace API key",
     "longDescription": "Use HappyHorse for text, image and reference video generation and editing through Ace Data Cloud. Install this independent Codex plugin, use your own API key, and retrieve the same task until it finishes. This integration is provided by Ace Data Cloud and is not an official plugin from the service brand. Media API calls may incur charges.",
     "developerName": "Ace Data Cloud",
